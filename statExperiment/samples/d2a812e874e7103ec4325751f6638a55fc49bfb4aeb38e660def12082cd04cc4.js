@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#txtEmail").watermark('Enter Email Address');var parentUrl=window.parent.location.href;$('[id$="txtPagename"]').val(parentUrl);$("#txtSMS").keypress(function(){$('#ShowDoNotSMSCHK').show();});});function ChangeImage(strButton,strImage){document.getElementById(strButton).src=strImage;}

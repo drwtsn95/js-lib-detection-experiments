@@ -1,0 +1,1 @@
+var qs = Math.round(Math.random()*10000000); document.writeln('<iframe src="http://ylx-1.com/bnr_xload.php?section=General&pub=579787&format=120x600&ga=g&xt=161484399977937&xtt='+qs+'" width="120" height="600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts"></iframe>');

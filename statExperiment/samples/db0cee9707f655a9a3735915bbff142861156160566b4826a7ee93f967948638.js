@@ -1,0 +1,1 @@
+﻿(function(n){n.fn.bjqs=function(t){}})(jQuery);
